@@ -1,33 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gerad\\OneDrive\\Escritorio\\CRUD\\",
+  "WorkspaceRootPath": "C:\\Users\\gerad\\OneDrive\\Escritorio\\Proyecto semestral org\\Proyecto-semestral-de-ORG\\CRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|c:\\users\\gerad\\onedrive\\escritorio\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|c:\\users\\gerad\\onedrive\\escritorio\\crud\\crud\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|solutionrelative:crud\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|c:\\users\\gerad\\onedrive\\escritorio\\crud\\crud\\viewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|solutionrelative:crud\\viewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|c:\\users\\gerad\\onedrive\\escritorio\\crud\\crud\\viewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|solutionrelative:crud\\viewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|c:\\users\\gerad\\onedrive\\escritorio\\crud\\crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|solutionrelative:crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|c:\\users\\gerad\\onedrive\\escritorio\\crud\\crud\\vuptade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|C:\\Users\\gerad\\OneDrive\\Escritorio\\Proyecto semestral org\\Proyecto-semestral-de-ORG\\CRUD\\crud\\vuptade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|solutionrelative:crud\\vuptade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|c:\\users\\gerad\\onedrive\\escritorio\\crud\\crud\\vuptade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|C:\\Users\\gerad\\OneDrive\\Escritorio\\Proyecto semestral org\\Proyecto-semestral-de-ORG\\CRUD\\crud\\viewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|solutionrelative:crud\\viewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|C:\\Users\\gerad\\OneDrive\\Escritorio\\Proyecto semestral org\\Proyecto-semestral-de-ORG\\CRUD\\crud\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|solutionrelative:crud\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|C:\\Users\\gerad\\OneDrive\\Escritorio\\Proyecto semestral org\\Proyecto-semestral-de-ORG\\CRUD\\crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|solutionrelative:crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|c:\\users\\gerad\\onedrive\\escritorio\\proyecto semestral org\\proyecto-semestral-de-org\\crud\\crud\\vuptade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77A9093A-FBD3-4501-A65D-D0E5206EBD4A}|CRUD\\CRUD.csproj|solutionrelative:crud\\vuptade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -90,37 +82,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Viewer.cs",
-              "DocumentMoniker": "C:\\Users\\gerad\\OneDrive\\Escritorio\\CRUD\\CRUD\\Viewer.cs",
-              "RelativeDocumentMoniker": "CRUD\\Viewer.cs",
-              "ToolTip": "C:\\Users\\gerad\\OneDrive\\Escritorio\\CRUD\\CRUD\\Viewer.cs",
-              "RelativeToolTip": "CRUD\\Viewer.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAswCkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T03:27:44.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gerad\\OneDrive\\Escritorio\\CRUD\\CRUD\\Program.cs",
-              "RelativeDocumentMoniker": "CRUD\\Program.cs",
-              "ToolTip": "C:\\Users\\gerad\\OneDrive\\Escritorio\\CRUD\\CRUD\\Program.cs",
-              "RelativeToolTip": "CRUD\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T03:22:54.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "VUptade.cs",
-              "DocumentMoniker": "C:\\Users\\gerad\\OneDrive\\Escritorio\\CRUD\\CRUD\\VUptade.cs",
+              "DocumentMoniker": "C:\\Users\\gerad\\OneDrive\\Escritorio\\Proyecto semestral org\\Proyecto-semestral-de-ORG\\CRUD\\CRUD\\VUptade.cs",
               "RelativeDocumentMoniker": "CRUD\\VUptade.cs",
-              "ToolTip": "C:\\Users\\gerad\\OneDrive\\Escritorio\\CRUD\\CRUD\\VUptade.cs",
+              "ToolTip": "C:\\Users\\gerad\\OneDrive\\Escritorio\\Proyecto semestral org\\Proyecto-semestral-de-ORG\\CRUD\\CRUD\\VUptade.cs",
               "RelativeToolTip": "CRUD\\VUptade.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAkwB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -129,11 +95,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "VUptade.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gerad\\OneDrive\\Escritorio\\CRUD\\CRUD\\VUptade.cs",
+              "DocumentMoniker": "C:\\Users\\gerad\\OneDrive\\Escritorio\\Proyecto semestral org\\Proyecto-semestral-de-ORG\\CRUD\\CRUD\\VUptade.cs",
               "RelativeDocumentMoniker": "CRUD\\VUptade.cs",
-              "ToolTip": "C:\\Users\\gerad\\OneDrive\\Escritorio\\CRUD\\CRUD\\VUptade.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\gerad\\OneDrive\\Escritorio\\Proyecto semestral org\\Proyecto-semestral-de-ORG\\CRUD\\CRUD\\VUptade.cs [Dise\u00F1o]",
               "RelativeToolTip": "CRUD\\VUptade.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T03:04:16.37Z",
@@ -141,11 +107,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Viewer.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gerad\\OneDrive\\Escritorio\\CRUD\\CRUD\\Viewer.cs",
+              "DocumentMoniker": "C:\\Users\\gerad\\OneDrive\\Escritorio\\Proyecto semestral org\\Proyecto-semestral-de-ORG\\CRUD\\CRUD\\Viewer.cs",
               "RelativeDocumentMoniker": "CRUD\\Viewer.cs",
-              "ToolTip": "C:\\Users\\gerad\\OneDrive\\Escritorio\\CRUD\\CRUD\\Viewer.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\gerad\\OneDrive\\Escritorio\\Proyecto semestral org\\Proyecto-semestral-de-ORG\\CRUD\\CRUD\\Viewer.cs [Dise\u00F1o]",
               "RelativeToolTip": "CRUD\\Viewer.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T02:41:53.909Z",
@@ -153,11 +119,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gerad\\OneDrive\\Escritorio\\CRUD\\CRUD\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\gerad\\OneDrive\\Escritorio\\Proyecto semestral org\\Proyecto-semestral-de-ORG\\CRUD\\CRUD\\Login.cs",
               "RelativeDocumentMoniker": "CRUD\\Login.cs",
-              "ToolTip": "C:\\Users\\gerad\\OneDrive\\Escritorio\\CRUD\\CRUD\\Login.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\gerad\\OneDrive\\Escritorio\\Proyecto semestral org\\Proyecto-semestral-de-ORG\\CRUD\\CRUD\\Login.cs [Dise\u00F1o]",
               "RelativeToolTip": "CRUD\\Login.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T02:32:49.556Z",
@@ -165,11 +131,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gerad\\OneDrive\\Escritorio\\CRUD\\CRUD\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gerad\\OneDrive\\Escritorio\\Proyecto semestral org\\Proyecto-semestral-de-ORG\\CRUD\\CRUD\\Form1.cs",
               "RelativeDocumentMoniker": "CRUD\\Form1.cs",
-              "ToolTip": "C:\\Users\\gerad\\OneDrive\\Escritorio\\CRUD\\CRUD\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\gerad\\OneDrive\\Escritorio\\Proyecto semestral org\\Proyecto-semestral-de-ORG\\CRUD\\CRUD\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "CRUD\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T02:19:07.092Z",
